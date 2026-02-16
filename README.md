@@ -1,4 +1,4 @@
-# Business-Analytics-Dashboard---Talent-Plus
+# Business-Analytics-Dashboard-Talent Plus
 **Overview**
 
 This project presents an interactive Tableau dashboard built to analyze business data and uncover actionable insights. The dashboard transforms raw data into meaningful visualizations, helping stakeholders monitor performance, identify trends, and support strategic decisions.
